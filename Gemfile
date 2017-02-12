@@ -7,7 +7,7 @@ end
 
 # core
 ruby '2.3.1'
-gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
+gem 'rails', '~> 5.0.1'
 
 # base app requirements
 gem 'jbuilder', '~> 2.5'

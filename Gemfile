@@ -19,6 +19,8 @@ gem 'rack-cors', require: 'rack/cors'
 gem 'devise'
 gem 'devise_token_auth'
 gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-google-oauth2'
 gem 'pundit'
 
 group :development, :test do
